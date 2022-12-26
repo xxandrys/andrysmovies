@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/andrysmovies/static/css/main.196b81fd.css",
+    "main.js": "/andrysmovies/static/js/main.94d5f00b.js",
+    "static/js/787.343accb2.chunk.js": "/andrysmovies/static/js/787.343accb2.chunk.js",
+    "static/media/scifi.jpg": "/andrysmovies/static/media/scifi.d7e33e800ac02f489fd8.jpg",
+    "static/media/spiderman.jpg": "/andrysmovies/static/media/spiderman.2d8e48db70fee2a9fbe9.jpg",
+    "static/media/main.jpg": "/andrysmovies/static/media/main.4a912a242568343fea42.jpg",
+    "static/media/avenger.jpg": "/andrysmovies/static/media/avenger.e6f6d831ff7250a20695.jpg",
+    "static/media/robinhood.jpg": "/andrysmovies/static/media/robinhood.a811f3623395b8d5c5fd.jpg",
+    "static/media/batman.jpg": "/andrysmovies/static/media/batman.d63ba254a96468382e2b.jpg",
+    "static/media/antman.jpg": "/andrysmovies/static/media/antman.b77f4ae26e0b3d82058c.jpg",
+    "static/media/superman.jpg": "/andrysmovies/static/media/superman.1f90bb661b43de78b7b8.jpg",
+    "static/media/Avatar.jpg": "/andrysmovies/static/media/Avatar.9a490bf33690cd3c8281.jpg",
+    "static/media/pussinboots.jpeg": "/andrysmovies/static/media/pussinboots.439421a2abbf149fdd1b.jpeg",
+    "static/media/tumbal.jpg": "/andrysmovies/static/media/tumbal.a330f50278eefc45ba88.jpg",
+    "static/media/qorin.jpg": "/andrysmovies/static/media/qorin.15b5430ba3889a7e87cd.jpg",
+    "static/media/themenu.jpg": "/andrysmovies/static/media/themenu.e83c25545c8618212e3d.jpg",
+    "static/media/bayiajaib.jpg": "/andrysmovies/static/media/bayiajaib.fa5eb35300c54d16acf4.jpg",
+    "index.html": "/andrysmovies/index.html",
+    "main.196b81fd.css.map": "/andrysmovies/static/css/main.196b81fd.css.map",
+    "main.94d5f00b.js.map": "/andrysmovies/static/js/main.94d5f00b.js.map",
+    "787.343accb2.chunk.js.map": "/andrysmovies/static/js/787.343accb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.196b81fd.css",
+    "static/js/main.94d5f00b.js"
+  ]
+}
